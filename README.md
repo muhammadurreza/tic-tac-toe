@@ -33,6 +33,6 @@ In this project:
 
 ## 🖼️ Game Preview
 
-*(Optional — you can upload screenshot later)*  
-Add a screenshot like this:
+<img width="379" height="413" alt="Screenshot 2025-11-25 010616" src="https://github.com/user-attachments/assets/1b10efb4-327f-4845-bab4-f0b8ef3e6dca" />
+
 
